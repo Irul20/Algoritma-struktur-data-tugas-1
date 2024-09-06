@@ -1,0 +1,8 @@
+Inisiasi:
+Tahun masuk
+Tahun sekarang
+Proses:
+Menghitung total tahun=tahun masuk-tahun sekarang
+menghitung semester=tahun telah berlalu/2
+Output:
+Semester mahasiswa

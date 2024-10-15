@@ -3,6 +3,6 @@ Tahun masuk
 Tahun sekarang
 Proses:
 Menghitung total tahun=tahun masuk-tahun sekarang
-menghitung semester=tahun telah berlalu/2
+menghitung semester=total tahun/2
 Output:
 Semester mahasiswa
